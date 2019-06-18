@@ -1,0 +1,316 @@
+body{
+	font-family: Arial;
+	background: url(../Images/background.png) no-repeat center top / cover;
+}
+.clearfix:after{
+	content: '';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+div{
+	box-sizing: border-box;
+}
+header{
+	background: url(../Images/background.png) no-repeat center top / cover;
+	height: 138px;
+	border: 1px ;
+	width: 100%;
+}
+.container{
+width: 960px;
+margin: 0 auto;
+}
+.logo{
+margin-top: 19px;
+float: left;
+width: 183px;
+}
+nav{
+	float: right;
+	margin-top: 39px;
+}
+.email a{
+	color: #999898;
+	text-decoration:  none;
+	margin-top: 15px;
+	font-size: 13px;
+	float: right;
+	font-weight: lighter;
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.menu li{
+	float: left;
+	display: block;
+	margin-left: 63px;
+}
+.menu li a {
+	color: #fe9b00;
+	text-decoration:  none;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: bold;
+	
+}
+  .menu li a:hover
+  	{
+    color: #090909; /* Цвет ссылки при наведении на нее курсора мыши */  
+
+   
+  }
+  .background{
+	background: url(../Images/header-image.png) no-repeat center top;
+	height: 419px;
+	width: 100%;
+	border: 1px ;
+	
+}
+.work{
+	margin-top: 0px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 15px;
+	color: #999898;
+	margin-top: -95px;
+	margin-left: 47px;
+}
+.view{
+margin-top: -20px;
+margin-right: 490px;
+display: block;
+list-style-type: none;
+}
+.view a{
+	color: #fe9b00;
+	text-decoration:  none;
+	float: right;
+	font-size: 15px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.img{
+		padding: 0;
+	margin: 0;
+	display: block;
+	margin-bottom: 115px;
+}
+.view li a:hover
+  	{
+    color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */    
+  }
+  .text1 {
+  	font-size: 18px;
+  	text-transform: uppercase;
+  	font-weight: bold;
+  	color: #090909;
+  }
+.about{
+	float: left;
+	margin-right: 53px;
+}
+.our{
+	float: left;
+	
+}
+.test{
+	float: right;
+	margin-left: : 53px;
+}
+.info1{
+	height: 115px;
+	width: 283px;
+}
+.info1 p{
+font-weight: lighter;
+font-size: 12px;
+color: #5d5d5d;
+line-height: 1.5;
+
+}
+.arrow{
+float: left;
+font-size: 12px;
+text-transform: uppercase;
+	font-weight: bold;
+	margin-right: 5px;
+	margin-top: -2px;
+}
+.read{
+
+	font-size: 12px;
+	color:#fe9b00;
+	text-transform: uppercase;
+	font-weight: bold;
+	float: left;
+	margin-top: -1px;
+}
+.mark{
+	float: left;
+	margin-right: 13px;
+}
+.main_text{
+	margin-top: 15px;
+}
+.p1{
+	float: left;
+	width: 252px;
+	font-weight: lighter;
+font-size: 12px;
+color: #5d5d5d;
+margin-top: 0px;
+}
+.rafi {
+	
+	color: #090909;
+	font-style:italic;
+	font-size: 12px;
+
+}
+.content{
+	width: 100%;
+}
+
+.text_img{
+	width: 283px;
+}
+.portfolio {
+	border: 1px ;}
+
+.works img{
+	float: left;
+	
+}
+.works img:last-child{
+float: right;
+margin-right: 0;
+}
+.works img:nth-child(2){
+margin-left: 32px;
+}
+.works img:nth-child(3){
+margin-left: 32px;
+}
+.about1{
+	
+	margin-right: 53px;
+	margin-top: -45px;
+}
+.seconds{
+	border: 1px;
+	height: 271px;
+}
+.portfolio{
+	
+	
+
+}
+.woking{
+	border: 1px;
+	width: 100%;
+}
+.conent{
+	width: 100%;
+
+	border: 1px ;
+}
+.text2 {
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #090909;
+	font-weight: bold;
+}
+.text3 {
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #090909;
+	font-weight: bold;
+}
+.text2 {
+	float: left;
+}
+.text3 {
+	float: right;
+	margin-right: 82px;
+}
+.inform{
+	height: 55px;
+	width: 663px;
+}
+.lastx{
+	margin-bottom: 15px;
+	font-weight: lighter;
+	font-size: 12px;
+	color: #5d5d5d;
+
+}
+.inform{
+	float: left;
+	margin-right: 74px;
+}
+
+.blog{
+	border: 1px;
+	width: 100%;
+	margin-top: -15px;
+	
+}
+
+
+.inorm{
+	font-weight: lighter;
+	font-size: 12px;
+	color: #5d5d5d;
+	line-height: 1.5;
+	float: left;
+height: 55px;
+	width: 659px;
+}
+.textm{
+	height: 55px;
+	width: 659px;
+	
+}
+ .socp {
+	float: left;
+	margin-left: 90px;
+}
+
+.kinec{
+	background: #e2e2e2;
+	
+	height: 122px;
+}
+.hap{
+	color: #5d5d5d;
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 2;
+	float: left;
+	margin-top: 34px;
+}
+.last{
+	width: 335px;
+	height: 36px;
+
+}
+.logo2{
+	float: right;
+	margin-right: 0;
+}
+.content{
+	border-bottom: 1px solid #DDD;
+}
+.woking{
+	border-bottom: 1px solid #DDD;
+	margin-bottom: 30px;
+	margin-top: 10px;
+	padding-bottom: 30px;
+}
+.item{
+	margin-top: -20px;
+}
